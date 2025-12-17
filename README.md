@@ -1,4 +1,4 @@
-# wordle
+# Wordle-Solver
 Helps you solve wordle
 
 ## How to use this program:
